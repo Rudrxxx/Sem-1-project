@@ -6,6 +6,7 @@ Species Profiles: Information about various endangered species, including images
 Conservation Efforts: Insights into ongoing initiatives to protect wildlife.
 Interactive Content: Maps, videos, and infographics to enhance user engagement.
 Responsiveness: Optimized for viewing on all devices.
+
 Objective
 This project aims to educate users about biodiversity loss and encourage actions to protect endangered species.
 
